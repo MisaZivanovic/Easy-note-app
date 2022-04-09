@@ -25,7 +25,7 @@ button_tag_add = QPushButton('Add to note')
 button_tag_del = QPushButton('Unpin from note')
 button_tag_search = QPushButton('Search notes by tag')
 list_tags = QListWidget()
-list_tags_label = QLabel('List of tags')
+list_tags_label = QLabel("New list of new tags")
  
 #arrangement of widgets by layouts
 layout_notes = QHBoxLayout()
